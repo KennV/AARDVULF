@@ -1,13 +1,15 @@
-//
-//  ContentView.swift
-//  Aardwolf
-//
-//  Created by Kenn Villegas on 10/1/24.
-//
+/**
+	MainNavController.swift
+	Aardwolf
+	
+	Created by Kenn Villegas on 10/1/24.
+
+*/
+
 
 import SwiftUI
 
-struct ContentView: View {
+struct KVMainNavController: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -20,5 +22,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    KVMainNavController()
 }

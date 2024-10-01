@@ -1,12 +1,15 @@
-//
-//  AardwolfTests.swift
-//  AardwolfTests
-//
-//  Created by Kenn Villegas on 10/1/24.
-//
+/**
+	AardwolfTests.swift
+	AardwolfTests
+
+	Created by Kenn Villegas on 10/1/24.
+
+*/
+
 
 import Testing
 @testable import Aardwolf
+import SwiftData
 
 struct AardwolfTests {
 
